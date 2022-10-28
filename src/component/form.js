@@ -1,4 +1,4 @@
-// 폼 컴포넌트 만들기, 전에 작성했던 DOM 그대로 가져오기
+// 폼 컴포넌트 만들기, 전에 작성했던 HTML 그대로 가져오기
 // html과 다른 문법 수정: class를 className으로, 라벨의 for를 htmlFor로
 export const Form = () => {
   return (
